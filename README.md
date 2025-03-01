@@ -8,11 +8,13 @@ Explain what software engineering is and discuss its importance in the technolog
 The process of designing, developing,testing, evaluating and maintaining software
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 In the early days of software development, many programmers considered software development as an art, as it was more about creativity and intuition than about following a set of established processes and methodologies. Programmers would often write code in an ad-hoc manner, without much structure or planning, and the final product was often the result of their personal artistic expression
 With the emergence of software engineering as a discipline, the focus shifted from the artistic expression of individual programmers to the use of established processes and methodologies to ensure the quality and reliability of software systems. This led to the development of new methodologies and techniques such as the Waterfall and Agile methodologies, as well as the development of new tools and technologies to support software development.
 Recognition of software engineering as an engineering discipline has led to the development of new techniques and methodologies such as formal methods, model-driven development, and software architecture, which are based on sound scientific principles and are designed to ensure the quality and reliability of software systems.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
 The Software Development Life Cycle (SDLC) is a structured process that outlines the steps involved in developing software from initial concept to final deployment and maintenance.
 
 1 **Planning:**
@@ -48,6 +50,7 @@ These phases provide a framework for managing software development projects, ens
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 Flexibility:
 Agile: Highly flexible, adaptable to changes.   
 Waterfall: Rigid, difficult to accommodate changes.   
@@ -70,6 +73,7 @@ Where the end user requirements may not be fully understood at project inception
 Projects where changes are unlikely and cost of change is very high.  
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+
 **1. Software Developer:**
 
 * **Roles:**
@@ -121,6 +125,7 @@ In essence:
 * **Project Managers keep the project on track.**
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 **Integrated Development Environments (IDEs):**
 
 * **Importance:**
@@ -154,6 +159,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
 IDEs provide a comprehensive environment for writing and debugging code, while VCS ensures that code is managed effectively and that changes are tracked and controlled.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 **1. Dealing with Evolving Requirements:**
 
 * **Challenge:** Requirements often change during development, leading to scope creep and project delays.
@@ -209,6 +215,7 @@ What are some common challenges faced by software engineers? Provide strategies 
     * Clearly define roles and responsibilities.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 **1. Unit Testing:**
     * Unit testing focuses on testing individual units or components of the software in isolation. A "unit" is typically the smallest testable part of the code, such as a function or method.
 * **Importance:**
@@ -250,6 +257,7 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
+
 Prompt engineering is the art and science of crafting effective prompts to elicit desired outputs from AI model.
 Importance in Interacting with AI Models:
 
@@ -266,6 +274,7 @@ Carefully designed prompts can help mitigate biases in AI models. By providing d
 Adaptability:
 As AI models become more integrated into daily life, and business, the ability to adapt to the changing landscape of AI becomes more important.
  Prompt engineering provides a way to stay relevant with these rapid changes
+
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 **Vague Prompt**: Write something about cats.
